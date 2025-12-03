@@ -1,4 +1,5 @@
 httplib2>=0.7
-git+https://github.com/pysimplesoap/pysimplesoap@stable_py3k
+# pysimplesoap@stable conflicts with pyafipws requirements as 2025-12-03
+# git+https://github.com/pysimplesoap/pysimplesoap@stable_py3k
 git+https://github.com/reingart/pyafipws
 M2Crypto
